@@ -1,0 +1,1 @@
+{"user":[{"name":"John Doe","role":"voter","username":"john","password":"1234","age":15,"token":"6f85eca06c"},{"name":"Donald Trump","role":"candidate","votes":0,"party":"republicans","age":15},{"name":"John cena","role":"candidate","username":"john","password":"1234","age":25,"token":"6f85eca06c"}]}
